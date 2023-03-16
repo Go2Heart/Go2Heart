@@ -1,14 +1,14 @@
-# Hi There 👋
+## Hi 👋
 I am Go2Heart
 
-# My Tags
+## My Tags
 
 - 🔭 I’m currently working on CS and NLP
 - 👯 I’m looking to collaborate on anything related to NLP
 - 💬 Ask me about anything you want
-- 📫 How to reach me: Go2Heart@outlook.com
+- 📫 How to reach me: [![Twitter Badge](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=)](https://twitter.com/Anxiou5)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:go2heart@outlook.com)](mailto::go2heart@outlook.com)
 
-# Some Statics
+## Some Statics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Go2Heart&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Go2Heart&hide=tex,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
