@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on NLP
+- 🔭 I’m currently working on CS and NLP
 - 👯 I’m looking to collaborate on anything related to NLPs
 - 💬 Ask me about anything you want
 - 📫 How to reach me: Go2Heart@outlook.com
