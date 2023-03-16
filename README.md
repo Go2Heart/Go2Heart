@@ -4,7 +4,7 @@ I am Go2Heart
 # My Tags
 
 - 🔭 I’m currently working on CS and NLP
-- 👯 I’m looking to collaborate on anything related to NLPs
+- 👯 I’m looking to collaborate on anything related to NLP
 - 💬 Ask me about anything you want
 - 📫 How to reach me: Go2Heart@outlook.com
 
