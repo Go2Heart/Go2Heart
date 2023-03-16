@@ -1,9 +1,13 @@
 ### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Go2Heart&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Go2Heart)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 🔭 I’m currently working on CS and NLP
 - 👯 I’m looking to collaborate on anything related to NLPs
 - 💬 Ask me about anything you want
 - 📫 How to reach me: Go2Heart@outlook.com
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Go2Heart)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Go2Heart/Go2Heart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
