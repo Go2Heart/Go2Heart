@@ -13,7 +13,6 @@ I am Go2Heart
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Go2Heart&hide=tex,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Go2Heart&theme=xcode)](https://github.com/Go2Heart)
 
 
 <!--
