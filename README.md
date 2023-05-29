@@ -10,7 +10,7 @@ I am Go2Heart
 
 ## Some Statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Go2Heart&count_private=true&rank_icon=github&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Go2Heart&hide=tex,html&layout=donut&theme=dracula&exclude_repo=Education_Assistance_Application&&hide=jupyternotebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Go2Heart&count_private=true&rank_icon=github&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Go2Heart&hide=tex,html&layout=donut&theme=dracula&exclude_repo=Education_Assistance_Application&hide=jupyternotebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
