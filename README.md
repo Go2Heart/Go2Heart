@@ -4,7 +4,7 @@ I am Yibin Yan.
 ## My Tags
 
 - 🔭 I’m currently working on Multi-Modality and Natural Language Process.
-- 👯 I’m looking to collaborate on anything related to Multi-Modality and Natural Language Process.
+- 👯 I’m looking to collaborate on anything related to Multimodal Perception and Video&3D Representation.
 - 💬 Ask me about anything you want.
 - 📫 How to reach me: [![Twitter Badge](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=)](https://twitter.com/Anxiou51)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cain.y.yan@gmail.com)](mailto::cain.y.yan@gmail.com)
 - 🗒️ My Web: [![Badge](https://img.shields.io/badge/Go2Heart-blue?style=flat-square)](https://go2heart.github.io)
